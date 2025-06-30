@@ -45,7 +45,7 @@
     
     <br/><br/>
     
-    Then I found a good old bunker. I'll live my life here — I thought. It was a paradise for a fucked-up world.
+    I found a good old bunker. I'll live my life here — I thought. It was a paradise for a fucked-up world.
     I had that place all for me. All I had to do was to kill a man and his pregnant wife.
     
     <br/><br/>
