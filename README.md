@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Author-Dark%20Fiction-555555?style=for-the-badge&logo=bookstack" alt="Author Badge" />
+  <img src="https://img.shields.io/badge/Genre-Dark%20Fiction-555555?style=for-the-badge&logo=bookstack" alt="Author Badge" />
   <img src="https://img.shields.io/badge/Words-That%20Cut%20Deep-555555?style=for-the-badge&logo=ghost" alt="Writing Style" />
 </div>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-## Featured Work: "The Bunker Monologue"
+## Featured Work: "The iron coffin"
 
 <div style="background-color: #1A1A1A; padding: 20px; border-radius: 8px; border-left: 4px solid #FFA07A;">
   <blockquote style="font-style: italic; color: #E0E0E0; line-height: 1.8;">
@@ -113,7 +113,7 @@
   <a href="https://www.instagram.com/adinath_prakashan?igsh=cmJqdDJzcGNoZDl4">
     <img src="https://img.shields.io/badge/Instagram-FFA07A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto: adinathprakashan@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFA07A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
