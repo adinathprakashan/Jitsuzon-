@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Genre-Dark%20Fiction-555555?style=for-the-badge&logo=bookstack" alt="Author Badge" />
-  <img src="https://img.shields.io/badge/Words-That%20Cut%20Deep-555555?style=for-the-badge&logo=ghost" alt="Writing Style" />
+  
 </div>
 
 <br/>
@@ -121,7 +121,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=FFA07A&style=flat" alt="Profile Views" />
+  
 </div>
 
 
